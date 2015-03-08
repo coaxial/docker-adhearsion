@@ -8,4 +8,4 @@ You will need a properly configured VoIPBX to use it such as the [FreeSWITCH for
 It is available on Docker Hub as [`coaxial/freeswitch:for_adhearsion`](https://registry.hub.docker.com/u/coaxial/adhearsion/).
 
 ## What is Adhearsion?
-It is a Ruby framework to write VoIP apps. More info at [Adhearsion](http://adhearsion.com).
+It is a Ruby framework to write VoIP apps. More info at [adhearsion.com](http://adhearsion.com).
