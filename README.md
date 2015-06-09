@@ -9,3 +9,7 @@ It is available on Docker Hub as [`coaxial/freeswitch:for_adhearsion`](https://r
 
 ## What is Adhearsion?
 It is a Ruby framework to write VoIP apps. More info at [adhearsion.com](http://adhearsion.com).
+
+## How to use this image?
+It can be used as the source image for your Adhearsion app. To see a working example, have a look at the
+[MoshiMoshi](https://github.com/coaxial/moshimoshi) app (more specifically its `Dockerfile` and `docker-compose.yml`).
