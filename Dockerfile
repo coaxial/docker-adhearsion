@@ -1,4 +1,4 @@
-FROM ruby:2.2
+FROM ruby:latest
 MAINTAINER Coaxial <py@poujade.org>
 
 # throw errors if Gemfile has been modified since Gemfile.lock
